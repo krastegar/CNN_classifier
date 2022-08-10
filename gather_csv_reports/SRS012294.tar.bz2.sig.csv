@@ -1,0 +1,2 @@
+intersect_bp,f_orig_query,f_match,f_unique_to_query,f_unique_weighted,average_abund,median_abund,std_abund,name,filename,md5,f_match_orig,unique_intersect_bp,gather_result_rank,remaining_bp,query_filename,query_name,query_md5,query_bp
+1551000,0.23621687480962533,0.9748585795097423,0.23621687480962533,0.23621687480962533,,,,"GCF_001436455.1 Lactobacillus jensenii DSM 20557 strain=DSM 20557, ASM143645v1",/mnt/HDD/kia/HMP_reference/gtdb-rs207.genomic-reps.dna.k31.zip,02ae1dee237653b18076f43ca5e8d71b,0.9748585795097423,1551000,0,4000,,SRS012294.tar.bz2,5160bd51,6566000

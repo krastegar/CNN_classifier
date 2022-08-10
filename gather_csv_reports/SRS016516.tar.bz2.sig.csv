@@ -1,0 +1,2 @@
+intersect_bp,f_orig_query,f_match,f_unique_to_query,f_unique_weighted,average_abund,median_abund,std_abund,name,filename,md5,f_match_orig,unique_intersect_bp,gather_result_rank,remaining_bp,query_filename,query_name,query_md5,query_bp
+1297000,0.2051890523651321,0.6182078169685414,0.2051890523651321,0.2051890523651321,,,,"GCF_018987235.1 Lactobacillus crispatus strain=ATCC 33820, ASM1898723v1",/mnt/HDD/kia/HMP_reference/gtdb-rs207.genomic-reps.dna.k31.zip,6b44659d997543a9bf23901261a5ef0d,0.6182078169685414,1297000,0,65000,,SRS016516.tar.bz2,693c31f6,6321000
